@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "7ab75d6a6998aa38",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b90464d3111264f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3715b95efbe99ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YouGile/YouGile. Изучить как можно реализовать открывание приложений через командную строку.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YouGile. Изучить как можно реализовать открывание приложений через командную строку"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f911ea90137026e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0010028ab3b90c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de4877c1e2da90e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "10d93c3c033ff8e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5fa6fa1d590be021",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdbf0ce045bb0463",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd0036ec138d439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cbe62bdf560b4d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "YouGile/YouGile. Изучить как можно реализовать открывание приложений через командную строку.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для YouGile. Изучить как можно реализовать открывание приложений через командную строку"
+            }
+          },
+          {
+            "id": "c5dec6958548772f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "YouGile/YouGile. Изучить как можно реализовать открывание приложений через командную строку.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из YouGile. Изучить как можно реализовать открывание приложений через командную строку"
+            }
+          },
+          {
+            "id": "fbd9052879539985",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "824535eba124c48b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "207e5434fc0f47f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "YouGile/YouGile. Изучить как можно реализовать открывание приложений через командную строку.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура YouGile. Изучить как можно реализовать открывание приложений через командную строку"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "3715b95efbe99ba3",
+  "lastOpenFiles": [
+    "ретроспектива/Ретроспектива 11.01.26.md",
+    "рефлексия/мини рефлексия.md",
+    "рефлексия/рефлексия.md",
+    "рефлексия/Без названия.md",
+    "ретроспектива",
+    "Без названия.md",
+    "Без названия 1.md",
+    "YouGile/YouGile. Проверить работа способность тестового кода.md",
+    "YouGile/YouGile. Изучить как с помощью команды можно повлиять на систему.md",
+    "YouGile/YouGile. Изучить как можно реализовать открывание приложений через командную строку.md",
+    "рефлексия.md",
+    "Ретроспектива 11.01.26.md",
+    "мини рефлексия.md",
+    "YouGile. Проверить работа способность тестового кода.md",
+    "YouGile. Изучить как с помощью команды можно повлиять на систему.md",
+    "YouGile. Изучить как можно реализовать открывание приложений через командную строку.md",
+    "рефлексия",
+    "YouGile"
+  ]
+}
