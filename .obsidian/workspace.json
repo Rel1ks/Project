@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Индивидуальный проект/рефлексия/06.03.26.md",
+                "file": "Индивидуальный проект/рефлексия/09.03.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.03.26"
+              "title": "09.03.26"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -174,23 +174,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "da9e91574ca45d5b",
   "lastOpenFiles": [
+    "Индивидуальный проект/рефлексия/06.03.26.md",
+    "Индивидуальный проект/рефлексия/09.03.26.md",
     "Индивидуальный проект/KEYBINDINGS.md",
     "Индивидуальный проект/install_windows.ps1",
     "Индивидуальный проект/install_windows.bat",
     "Индивидуальный проект/install_ubuntu.sh",
     "Индивидуальный проект/editor.py",
-    "Индивидуальный проект/рефлексия/06.03.26.md",
     "Индивидуальный проект/рефлексия/Рефлексия - 02.03.26.md",
     "Индивидуальный проект/рефлексия/Рефлексия - ИП 27.02.26.md",
     "Индивидуальный проект/ретроспектива/Ретроспектива 17.02.26.md",
